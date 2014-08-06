@@ -3,4 +3,6 @@
 return {
     hilda.affection = 0
     hilda.love = 0
+    townsperson.affection= 0
+    townsperson.love= 0
 }
